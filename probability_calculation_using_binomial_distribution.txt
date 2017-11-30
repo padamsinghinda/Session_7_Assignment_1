@@ -11,7 +11,7 @@ p = (1/4) = 0.25
 n-k = 20-5 = 15
 
 After substituting all the parameters in the binomial distribution formulla,
-Probability of the 5 wrong answers will can be calculate as below  :
+Probability of the 5 wrong answers can be calculated as below  :
  => 20.c.15 * (0.25)^15 * (0.75)^5
  =>(20*19*18*17*16/5*4*3*2*1) * (0.25)^15 * (0.75)^5
  => 1860480/120 * 0.00000000093 * 0.237
